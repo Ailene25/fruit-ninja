@@ -1,0 +1,30 @@
+# Build outputs
+*.exe
+*.o
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+build/
+bin/
+obj/
+Debug/
+Release/
+out/
+ 
+# SplashKit
+.skm/
+ 
+# VS Code / IDE
+.vscode/
+*.vcxproj.user
+.vs/
+ 
+# OS junk
+.DS_Store
+Thumbs.db
+ 
+# Logs / temp
+*.log
+*.tmp
